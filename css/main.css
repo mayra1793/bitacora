@@ -23,8 +23,17 @@ a{
 }
 
 h1{
-  color: white;
+  color: blueviolet;
   text-align: center;
 }
 
+ #botonTexto, #botonCita, #botonMeme, #botonPastillita {
+	border-radius: 20px;
+	background-color: aqua;
+	border-bottom: 3px;
+}
 
+img{
+	width: 30px;
+	height: auto;
+}
